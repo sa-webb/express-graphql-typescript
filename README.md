@@ -1,3 +1,5 @@
-# Express Server with Typescript
+# Express-GraphQL Boilerplate Server
 
-Typescript #2020 TSLint => ESLint
+Typescript types included.
+
+See [package.json](https://github.com/sa-webb/express-graphql-typescript/blob/master/package.json)
