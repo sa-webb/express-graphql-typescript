@@ -9,6 +9,10 @@
   },
   "keywords": [
     "node",
+    "express",
+    "graphql",
+    "express-graphql",
+    "@types",
     "typescript"
   ],
   "author": "Austin Webb <stevenaustinwebb@gmail.com>",
